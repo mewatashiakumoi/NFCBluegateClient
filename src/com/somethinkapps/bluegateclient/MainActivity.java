@@ -70,6 +70,7 @@ public class MainActivity extends Activity {
 	private TextView tiltValue;
 	int panVal,tiltVal;
 	float panFloat,tiltFloat;
+	int testinggit; //Ini variabel beda
 	
 	//Credential Needs
 	public SharedPreferences preferences;
