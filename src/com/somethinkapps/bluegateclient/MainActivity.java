@@ -61,7 +61,7 @@ public class MainActivity extends Activity {
 	private final int TILT_PIN = 6;
 
 	private final int PWM_FREQ = 100;
-
+//coba
 	private RatingBar gateStatus;
 	private Button guideButton;
 	private SeekBar mPanSeekBar;
